@@ -2,7 +2,7 @@
 
 ## Game Description
 
-The Pokémon Memory Card Game is a web application built with React and Vite. In this game, players are tasked with selecting Pokémon from the PokéAPI and avoiding selecting repeated Pokémon. The goal is to accumulate as many points as possible by selecting unique Pokémon.
+The Pokémon Memory Card Game is a web application built with React. In this game, players are tasked with selecting Pokémon from the PokéAPI and avoiding selecting repeated Pokémon. The goal is to accumulate as many points as possible by selecting unique Pokémon.
 
 ## Features
 
