@@ -33,10 +33,13 @@ If you want to run the game locally on your machine, follow these steps:
    git clone https://github.com/yourusername/yourrepository.git
 
 2. Navigate to the proejct directory:
+   
    cd yourrespository
 
-3. Install the project dependencies:
+4. Install the project dependencies:
+   
    npm install
 
-4. Start the app:
+5. Start the app:
+   
    npm run dev
